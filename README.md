@@ -13,9 +13,15 @@ This is a Python-based tool to evaluate Real Estate Investment Trusts (REITs) us
 - Python
 - Libraries: pandas, yfinance, seaborn, matplotlib, numpy
 
+
 ## Sample Outputs:
-📈 REIT stock price vs. FFO trend  
-📊 DCF Sensitivity Matrix
+
+**Stock Price Trend (simulated)**  
+Visualizes REIT stock price movement over 5 years using matplotlib and seaborn.
+
+![Stock Price Trend](stock_price_trend.png)
+
+
 
 ## How to Run:
 ```bash
